@@ -1,0 +1,54 @@
+header {text-align:right;}
+
+body {font-family: 'Montserrat', sans-serif;}
+
+nav{margin:auto;}
+
+.nav-item nav-link {color: black;
+text-decoration: none;
+text-align: right;}
+
+#navbarNavAltMarkup {text-align: right !important;}
+
+
+nav ul li {;text-transform: uppercase;
+list-style: none;}
+
+section {text-align: right;}
+
+main {text-orientation:left;
+padding-left: 30px;
+padding-top: 40px;}
+
+#buttonhead {border-color: black;
+	        background-color:blueviolet;
+	        height: 45px;
+	        width: auto;
+            margin-top: 10px;}
+
+#logo {color: blueviolet;}
+
+h1 {text-align: center;
+text-transform: uppercase;}
+
+
+
+.testo1 {text-align: left;
+        color: black;}
+
+.testo2{text-align: left;}
+
+.testoc {text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
