@@ -1,7 +1,8 @@
 header {text-align:right;}
 
-
-body {font-family: 'Montserrat', sans-serif;}
+body {font-family: 'Montserrat', sans-serif;
+  background-attachment: fixed; 
+  background-size: 100% 100%;}
 
 nav{margin:auto;}
 
@@ -40,6 +41,60 @@ text-transform: uppercase;}
 .testo2{text-align: left;}
 
 .testoc {text-align: center;}
+
+footer {position: absolute;
+	background-attachment: fixed!important;
+bottom: 0 !important;
+width: 100%;
+text-align: left;
+padding-right: 8%;}
+
+.rounded-lg{width: 4%}
+
+.rounded-sm {width: 4%;}
+
+
+#form{background:mediumvioletred ;}
+
+#form2{background:lightseagreen;}
+
+#form3{background:forestgreen;}
+
+#form4{background:darkorange;}
+
+#form5{background:darkviolet ;}
+
+
+#wbutton{border-color: black;
+	        background-color:mediumvioletred;
+	        height: 45px;
+	        width: auto;
+            margin-top: 10px}
+
+#abutton{border-color: black;
+	        background-color:lightseagreen;
+	        height: 45px;
+	        width: auto;
+            margin-top: 10px}
+
+#cobutton{border-color: black;
+	        background-color:forestgreen;
+	        height: 45px;
+	        width: auto;
+            margin-top: 10px}
+
+#cabutton{border-color: black;
+	        background-color:darkorange;
+	        height: 45px;
+	        width: auto;
+            margin-top: 10px}
+
+#ybutton{border-color: black;
+	        background-color:darkviolet;
+	        height: 45px;
+	        width: auto;
+            margin-top: 10px}
+
 
 
 
