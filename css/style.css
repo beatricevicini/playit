@@ -16,7 +16,10 @@ text-align: right;}
 nav ul li {;text-transform: uppercase;
 list-style: none;}
 
-section {text-align: right;}
+section {text-align: right;
+font-size: large;}
+
+
 
 main {text-orientation:left;
 	padding-left: 30px;
@@ -118,10 +121,6 @@ font-family: 'Montserrat', sans-serif !important}
 h5 {text-align: center;
 text-transform: uppercase;
 font-family: 'Montserrat', sans-serif !important}
-
-
-
-
 
 #lay {width: 46%;
 height: auto;
