@@ -1,6 +1,6 @@
 header {text-align:right;}
 
-body {font-family: 'Montserrat', sans-serif;
+body{
   background-attachment: fixed; 
   background-size: 100% 100%;}
 
@@ -19,7 +19,7 @@ list-style: none;}
 section {text-align: right;}
 
 main {text-orientation:left;
-padding-left: 30px;
+	padding-left: 30px;
 padding-top: 40px;}
 
 #buttonhead {border-color: black;
@@ -31,7 +31,8 @@ padding-top: 40px;}
 #logo {color: blueviolet;}
 
 h1 {text-align: center;
-text-transform: uppercase;}
+text-transform: uppercase;
+font-family: 'Montserrat', sans-serif !important}
 
 
 
@@ -42,12 +43,7 @@ text-transform: uppercase;}
 
 .testoc {text-align: center;}
 
-footer {position: absolute;
-	background-attachment: fixed!important;
-bottom: 0 !important;
-width: 100%;
-text-align: left;
-padding-right: 8%;}
+
 
 .rounded-lg{width: 4%}
 
@@ -96,14 +92,71 @@ padding-right: 8%;}
             margin-top: 10px}
 
 
+#footer {position: absolute;
+	background-attachment: fixed!important;
+text-align: center;
+width: 100%;
+bottom: 0 !important
+}
+
+#footer2 {position: absolute;
+	background-attachment: fixed!important;
+text-align: center;
+width: 100%;}
+
+
+h2 {font-family: 'Montserrat', sans-serif !important}
+
+h3 {text-align: center;
+text-transform: uppercase;
+font-family: 'Montserrat', sans-serif !important}
+
+h4 {text-align: center;
+text-transform: uppercase;
+font-family: 'Montserrat', sans-serif !important}
+
+h5 {text-align: center;
+text-transform: uppercase;
+font-family: 'Montserrat', sans-serif !important}
 
 
 
 
 
+#lay {width: 46%;
+height: auto;
+}
+
+#hp {width: 46%;
+height: auto;
+}
+
+#pl{width: 46%;
+height: auto;
+}
+
+#ab{width: 46%;
+height: auto;
+}
+
+#co{width: 46%;
+height: auto;
+}
+
+#ut {width: 46%;
+height: auto;
+}
+
+#p {width: 46%;
+height: auto;
+}
+
+#v{width: 46%;
+height: auto;
+}
 
 
-
+ 
 
 
 
